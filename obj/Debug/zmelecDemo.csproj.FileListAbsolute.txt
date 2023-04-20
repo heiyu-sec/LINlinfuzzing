@@ -1,0 +1,9 @@
+E:\47：通用型升级配置工具\3：二次开发参考DEMO\zmelecDemo\bin\Debug\zmelecDemo.exe
+E:\47：通用型升级配置工具\3：二次开发参考DEMO\zmelecDemo\bin\Debug\zmelecDemo.pdb
+E:\47：通用型升级配置工具\3：二次开发参考DEMO\zmelecDemo\obj\Debug\zmelecDemo.csprojAssemblyReference.cache
+E:\47：通用型升级配置工具\3：二次开发参考DEMO\zmelecDemo\obj\Debug\zmelecDemo.Form1.resources
+E:\47：通用型升级配置工具\3：二次开发参考DEMO\zmelecDemo\obj\Debug\zmelecDemo.Properties.Resources.resources
+E:\47：通用型升级配置工具\3：二次开发参考DEMO\zmelecDemo\obj\Debug\zmelecDemo.csproj.GenerateResource.cache
+E:\47：通用型升级配置工具\3：二次开发参考DEMO\zmelecDemo\obj\Debug\zmelecDemo.csproj.CoreCompileInputs.cache
+E:\47：通用型升级配置工具\3：二次开发参考DEMO\zmelecDemo\obj\Debug\zmelecDemo.exe
+E:\47：通用型升级配置工具\3：二次开发参考DEMO\zmelecDemo\obj\Debug\zmelecDemo.pdb
